@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Luan
+
+- I'm currently studying Information Systems on University of São Paulo in Brazil
+- I have interest in Competitive Programming
 
 <!--
 **pinheiro-lu/pinheiro-lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
